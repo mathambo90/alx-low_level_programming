@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
- * main - Entry point 
- * Return: Always 0 (success)
- */
+  * main - Entry point 
+  * describtion:  alphabet
+  * Return: Always 0 
+  */
 
 int main(void)
 {
@@ -13,6 +14,6 @@ int main(void)
                                 putchar(c);
                                 c++;
                         }
-                putchar("\n");
+                putchar('\n');
                 return (0);
 }
