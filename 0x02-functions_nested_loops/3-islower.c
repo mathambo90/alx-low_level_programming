@@ -6,9 +6,13 @@
  * Return : always zero
  */
 int _islower(int c)
+	char, chr;
 {
-	if (c =>'a' && c<= 'z')
-		return(1);
+	 (chr = 'a', chr <= 'z', chr++);
+	
+	 if (chr == c);
+		return (1);
+	
 	else
-		return(0);
+		return (0);
 }
