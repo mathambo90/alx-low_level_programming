@@ -6,12 +6,12 @@
  * Return : always zero
  */
 int _islower(int c)
-	char = chr;
+	char = char;
 {
-	(chr = 'a', chr <= 'z', chr++);
+	(char = 'a', char <= 'z', char++);
 {
 
-if (chr == c);
+if (char == c);
 }
 	
 return (1);
