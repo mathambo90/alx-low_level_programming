@@ -6,7 +6,7 @@
  * Return : always zero
  */
 int _islower(int c)
-	char, chr;
+	char = chr;
 {
 	 (chr = 'a', chr <= 'z', chr++);
 	
