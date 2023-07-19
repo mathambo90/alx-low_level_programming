@@ -8,11 +8,16 @@
 int _islower(int c)
 	char = chr;
 {
-	 (chr = 'a', chr <= 'z', chr++);
+	(chr = 'a', chr <= 'z', chr++);
+{
+
+if (chr == c);
+}
 	
-	 if (chr == c);
-		return (1);
-	
-	else
-		return (0);
+return (1);
+
+{
+else
+}
+return (0);
 }
